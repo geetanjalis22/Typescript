@@ -8,7 +8,10 @@ TypeScript is a **superset of JavaScript** that adds static types. It helps catc
 ## Prerequisites  
 Before we start, make sure you have:  
 - **Node.js** installed (Download from [nodejs.org](https://nodejs.org/))  
-- A code editor like **VS Code** (recommended)  
+- A code editor like **VS Code** (recommended)
+  
+## Documentation
+Refer https://www.typescriptlang.org/docs/
 
 ## Installation  
 To install TypeScript globally, run:  
