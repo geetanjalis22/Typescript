@@ -35,7 +35,7 @@
 
 // calculateTax(10_000); //Enable compiler options  noUnusedLocals, noUnusedParameters, noImplicitReturns
 //Objects
-let employee : {
+let worker: {
     readonly id: number,
     name: string,
     retire: (date: Date) => void

@@ -1,5 +1,5 @@
 "use strict";
-let employee = {
+let worker = {
     id: 1, name: 'Mosh',
     retire: (date) => {
         console.log(date);
